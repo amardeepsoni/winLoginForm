@@ -1,0 +1,9 @@
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\obj\Debug\UIAPP.Form1.resources
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\obj\Debug\UIAPP.Properties.Resources.resources
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\obj\Debug\UIAPP.csproj.GenerateResource.cache
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\obj\Debug\UIAPP.csproj.CoreCompileInputs.cache
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\bin\Debug\UIAPP.exe.config
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\bin\Debug\UIAPP.exe
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\bin\Debug\UIAPP.pdb
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\obj\Debug\UIAPP.exe
+C:\Users\amarsoni\source\repos\UIAPP\UIAPP\obj\Debug\UIAPP.pdb

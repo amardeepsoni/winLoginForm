@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIAPP", "UIAPP\UIAPP.csproj", "{3B457EED-2C2B-447F-AA6E-6947325FD0D2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UISetup", "UISetup\UISetup.vdproj", "{5895FEDD-C004-4178-97BE-0117843B8DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B457EED-2C2B-447F-AA6E-6947325FD0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B457EED-2C2B-447F-AA6E-6947325FD0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B457EED-2C2B-447F-AA6E-6947325FD0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B457EED-2C2B-447F-AA6E-6947325FD0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5895FEDD-C004-4178-97BE-0117843B8DDC}.Debug|Any CPU.ActiveCfg = Debug
+		{5895FEDD-C004-4178-97BE-0117843B8DDC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E1F60A-4A0A-43E6-823C-3A4DAD1D3F80}
+	EndGlobalSection
+EndGlobal
